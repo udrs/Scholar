@@ -24,12 +24,15 @@ My Publication Introduction
 ## In Press
 
 - Wendi Liang\*, Yihan Wen\*, Zewei Wang, Jianuo Jiang, Tat-Ming Lok. **Guide-DDPM Face Restoration: Enhancing Facial Image Quality with Dual-Stream Diffusion Models**.  
-  [PDF link](https://ieeexplore.ieee.org/abstract/document/10622174).
+  [Link to PDF]().
 
 ## Under Review
 
-- Zhuo Zhang\*, Yihan Wen\*, Peiyu Wang, Ying Miao, Guanchong Niu. **3D-MGNet: Integrating Radiomics and Deep Learning for Meningioma Grading**.
+- Zhuo Zhang\*, Yihan Wen\*, Peiyu Wang, Ying Miao, Guanchong Niu. **3D-MGNet: Integrating Radiomics and Deep Learning for Meningioma Grading**. Physics in Medicine & Biology
+  [Link to PDF]().
 
-- Yihan Wen\*, Zhuo Zhang\*, Jiayi Sun, Peipei Zhu, Guanchong Niu, Qiguang Miao. **Generative Rule-Semantic Calibration for Blur Detection in UAV Imagery**.
+- Yihan Wen\*, Zhuo Zhang\*, Jiayi Sun, Peipei Zhu, Guanchong Niu, Qiguang Miao. **Generative Rule-Semantic Calibration for Blur Detection in UAV Imagery**. IEEE Transactions on Circuits and Systems for Video Technology publication information.
+  [Link to PDF]().
 
 - Yihan Wen, Zhen Zhang, Jiayi Sun, Chung Shue Chen, Guangchong Niu. **SAW: Semantic-Assisted WebRTC Using DDPM-Guided Scalable Video Coding**.
+  [Link to PDF]().
