@@ -34,5 +34,5 @@ My Publication Introduction
 - Yihan Wen\*, Zhuo Zhang\*, Jiayi Sun, Peipei Zhu, Guanchong Niu, Qiguang Miao. **Generative Rule-Semantic Calibration for Blur Detection in UAV Imagery**. IEEE Transactions on Circuits and Systems for Video Technology publication information.
   [Link to PDF]().
 
-- Yihan Wen, Zhen Zhang, Jiayi Sun, Chung Shue Chen, Guangchong Niu. **SAW: Semantic-Assisted WebRTC Using DDPM-Guided Scalable Video Coding**.
+- Yihan Wen, Zhen Zhang, Jiayi Sun, Chung Shue Chen, Guangchong Niu. **SAW: Semantic-Assisted WebRTC Using DDPM-Guided Scalable Video Coding**. IEEE Internet of Things Journal
   [Link to PDF]().
