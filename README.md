@@ -2,13 +2,13 @@
 My Publication Introduction
 
 # Published Works
-**Total References: 23**
+**Total References: 24**
 
 ## Journal Articles
 
 - Wen Y, Ma X, Zhang X, *et al.* **GCD-DDPM: A Generative Change Detection Model Based on Difference-Feature Guided DDPM**. *IEEE Transactions on Geoscience and Remote Sensing*, 2024.  
   [Link to article](https://ieeexplore.ieee.org/abstract/document/10479050).  
-  Citation count: 17.
+  Citation count: 18.
 
 - Wen Y, Zhang Z, Cao Q, *et al.* **TransC-GD-CD: Transformer-Based Conditional Generative Diffusion Change Detection Model**. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2024.  
   [Link to article](https://ieeexplore.ieee.org/abstract/document/10460113).
