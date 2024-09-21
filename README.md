@@ -28,9 +28,6 @@ My Publication Introduction
 
 ## Under Review
 
-- Feixiang Liu, Yihan Wen, Jiayi Sun, Peipei Zhu, Liang Mao, Guanchong Niu, and Jie Li1. **IMDCD: Iterative Mamba Diffusion Change Detection Model for Remote Sensing**. Remote Sensing.
-  [Link to PDF](https://github.com/udrs/Scholar/blob/main/IMDCD__Iterative_Mamba_Diffusion_Change_Detection_Model_for_Remote_Sensing.pdf).
-
 - Yihan Wen\*, Zhuo Zhang\*, Jiayi Sun, Peipei Zhu, Guanchong Niu, Qiguang Miao. **Generative Rule-Semantic Calibration for Blur Detection in UAV Imagery**. IEEE Transactions on Circuits and Systems for Video Technology publication information.
   [Link to PDF](https://github.com/udrs/Scholar/blob/main/TCSVT.pdf).
 
@@ -39,3 +36,6 @@ My Publication Introduction
 
 - Zhuo Zhang\*, Yihan Wen\*, Peiyu Wang, Ying Miao, Guanchong Niu. **3D-MGNet: Integrating Radiomics and Deep Learning for Meningioma Grading**. Physics in Medicine & Biology
   [Link to PDF](https://github.com/udrs/Scholar/blob/main/medical_PMB.pdf).
+
+- Feixiang Liu, Yihan Wen, Jiayi Sun, Peipei Zhu, Liang Mao, Guanchong Niu, and Jie Li1. **IMDCD: Iterative Mamba Diffusion Change Detection Model for Remote Sensing**. Remote Sensing.
+  [Link to PDF](https://github.com/udrs/Scholar/blob/main/IMDCD__Iterative_Mamba_Diffusion_Change_Detection_Model_for_Remote_Sensing.pdf).
