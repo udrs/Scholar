@@ -2,7 +2,7 @@
 My Publication Introduction
 
 # Published Works
-**Total References: 24**
+**Total References: 25**
 
 ## Journal Articles
 
